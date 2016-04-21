@@ -28,11 +28,14 @@ from tweepy import Stream
 class StdOutListener(StreamListener):
     def on_data(self, data):
         tweet = json.loads(data)
-        print(tweet)
+        print(tweet) #Would be nice to simply printout the tweet "text", ?best done via parsing DB input "tweet".
+        
+        
+        #The following is not needed
         #if db.COLLECTIONNAME.find_one({'tweet': tweet}):
-        if db.tweets_HHV.find_one({'tweet': tweet}):
-            print ("Skipping Tweet; already in db.collection: twitter_db.tweets_HHV!!!")
-            return
+        ##if db.tweets_HHV.find_one({'tweet': tweet}):
+        ##    print ("Skipping Tweet; already in db.collection: twitter_db.tweets_HHV!!!")
+        ##    return
 
         #db.COLLECTIONNAME.insert(tweet)
         db.tweets_HHV.insert(tweet)
