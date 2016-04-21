@@ -2,9 +2,8 @@
 Automate the identification of hate speech aimed at female identity groups.
 ----
 PROJECT IN BUILD MODE
-
-
-1 Tweets capturing (Tweet captures began 2016-04-20)
+ 
+1. Tweets capturing (Tweet captures began 2016-04-20)
 
 2. Manually rate data
 
