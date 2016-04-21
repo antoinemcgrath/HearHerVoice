@@ -2,11 +2,15 @@
 Automate the identification of hate speech aimed at female identity groups.
 ----
 PROJECT IN BUILD MODE
-Stage 1 tweets capturing is in process
-2. Split data into 2 distinct groups
-3. Manually rate data
-4. Train machine learning
-5. Implement various uses
+
+In Process Stage 1 tweets capturing
+
+2. Manually rate data
+
+3. Train machine learning
+
+4. Implement various uses
+
 
 
 -----
@@ -23,21 +27,20 @@ Build Plan:
  --C- Keyword list for tweet capturing (see file: HearHerVoice/tweets_2_db/git_tweets_test.py for current keyword list).
 NEW SUGGESTIONS CAN BE MADE HERE[_        _       _] 
 
-2. Split data into 2 distinct groups: hate speech directed at women & =!
+
+2. Manually rate data (extent needed unknown) as either: hate speech directed at women OR =!
 
 
-3. Manually rate data (extent needed unknown)
 
+3. Automate identification 
 
-4. Automate identification 
-
- --A- Prepare rated data and raw data to train machine
+ --A- Prepare rated data and raw data to train machine 
  
  --B- Use h2o; ensemble/subsenble as Super Learners, or linguistic cluster modeling
  
  --C- Test, assess, and adapt
 
-5. Text analysis & fun
+4. Text analysis & fun
    -Create FB app to rate users comments/wall
    -Create web UI that will rate a submitted users tweet
    -Rank politicians tweets en mass
