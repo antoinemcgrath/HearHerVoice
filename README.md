@@ -35,7 +35,7 @@ NEW SUGGESTIONS CAN BE MADE HERE[_        _       _]
  
  --A1- Expand sentences (decompress txt spch) -(new db value) 
  
- --A2- Identify complete sentences via linguistic coding -(new db value) 
+ --A2- Identify complete sentences via linguistic coding NLP bespoke -(new db value) 
  
  --B-  Within complete sentences discover identity groups and vitriolic word matches
 
