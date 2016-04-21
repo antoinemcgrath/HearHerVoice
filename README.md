@@ -49,5 +49,5 @@ NEW SUGGESTIONS CAN BE MADE HERE[_        _       _]
    -Create web UI that will rate tweets with user submitted tags
 
 -------
-Welcome note: If any of this interests you please commet or join in!
+Welcome note: If any of this interests you please comment or join in!
 -------
