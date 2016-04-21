@@ -6,7 +6,7 @@ PROJECT IN BUILD MODE
  
 1. Tweets capturing (Tweet captures began 2016-04-20)
 
-2. Manually rate data
+2. Rate data (individually for seed set)
 
 3. Train machine learning
 
@@ -29,8 +29,17 @@ Build Plan:
 NEW SUGGESTIONS CAN BE MADE HERE[_        _       _] 
 
 
-2. Manually rate data (extent needed unknown) as either: hate speech directed at women OR =!
+2. Manually rate seed data (extent needed unknown) as either: hate speech directed at women OR =!
 
+ --A- Process tweets using linguistic analysis 
+ 
+ --A1- Expand sentences (decompress txt spch) -(new db value) 
+ 
+ --A2- Identify complete sentences via linguistic coding -(new db value) 
+ 
+ --B-  Within complete sentences discover identity groups and vitriolic word matches
+
+ --C-  Human review 
 
 
 3. Automate identification 
@@ -41,12 +50,14 @@ NEW SUGGESTIONS CAN BE MADE HERE[_        _       _]
  
  --C- Test, assess, and adapt
 
-4. Text analysis & fun
+4. Tweet analysis & beyond
+   -Root words and search occruences to discover additional keyword trends
    -Create FB app to rate users comments/wall
    -Create web UI that will rate a submitted users tweet
    -Rank politicians tweets en mass
    -Rank tweets per country en mass
    -Create web UI that will rate tweets with user submitted tags
+
 
 -------
 Welcome note: If any of this interests you please comment or join in!
