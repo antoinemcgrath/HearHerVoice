@@ -85,7 +85,8 @@ http://apo.org.au/resource/misogyny-twitter
 
 WANTED
 
-10,000+ comments/tweets that are 95% hate speeches aimed at female identity groups. Datasets that are keyword occurences will not suffice.
+10,000+ comments/tweets which are 95% hate speech aimed at female identity groups. 
+Datasets that based on keyword occurences will not suffice.
 
 
 --------
