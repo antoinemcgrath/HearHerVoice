@@ -18,7 +18,7 @@ PROJECT IN BUILD MODE
 
 Build Plan:
 
-1. Capture a large dataset of feminist & antifemale tweets for analysis.
+1. Capture a large dataset of feminist & anti female tweets for analysis.
 
  --A- Tweets: Use Twitter API -credentials required, Oauth, StreamListener & keyword list, 
 
@@ -36,7 +36,7 @@ NEW SUGGESTIONS CAN BE MADE HERE[_        _       _]
 
  --A- Prepare rated data and raw data to train machine 
  
- --B- Use h2o; ensemble/subsenble as Super Learners, or linguistic cluster modeling
+ --B- Use h2o; ensemble/subsemble as super learners, or linguistic cluster modeling
  
  --C- Test, assess, and adapt
 
