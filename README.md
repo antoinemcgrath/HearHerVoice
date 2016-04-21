@@ -7,6 +7,8 @@ Stage 1 tweets capturing is in process
 3. Manually rate data
 4. Train machine learning
 5. Implement various uses
+
+
 -----
 
 
@@ -14,12 +16,12 @@ Build Plan:
 
 1. Capture a large dataset of feminist & antifemale tweets for analysis.
 
- --A-Tweets: Use Twitter API -credentials required, Oauth, StreamListener & keyword list, 
+ --A- Tweets: Use Twitter API -credentials required, Oauth, StreamListener & keyword list, 
 
- --B-Storage: Use a MongoDB stored on Ubuntu, pyMongo, & MongoClient
+ --B- Storage: Use a MongoDB stored on Ubuntu, pyMongo, & MongoClient
 
- --C-Keyword list NEW SUGGESTIONS: Anyone can add suggestions here:[               ] -they will be moved above once added to the online & offline python script. See file: HearHerVoice/tweets_2_db/git_tweets_test.py for current keyword list.
-
+ --C- Keyword list for tweet capturing (see file: HearHerVoice/tweets_2_db/git_tweets_test.py for current keyword list).
+NEW SUGGESTIONS CAN BE MADE HERE[_        _       _] 
 
 2. Split data into 2 distinct groups: hate speech directed at women & =!
 
