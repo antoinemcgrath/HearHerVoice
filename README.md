@@ -1,5 +1,6 @@
 # HearHerVoice
 Automate the identification of hate speech aimed at female identity groups.
+
 ----
 PROJECT IN BUILD MODE
  
@@ -46,3 +47,7 @@ NEW SUGGESTIONS CAN BE MADE HERE[_        _       _]
    -Rank politicians tweets en mass
    -Rank tweets per country en mass
    -Create web UI that will rate tweets with user submitted tags
+
+-------
+Welcome note: If any of this interests you/is your jam, please join in!
+-------
