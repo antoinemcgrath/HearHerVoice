@@ -65,9 +65,27 @@ Welcome note: If any of this interests you please comment or join in!
 
 
 Related events:
+
 USA CA, UC Berkeley iSchool: Gender Inclusive Internet
 Toward a Gender-Inclusive Internet: Strategies to Counter Harassment, Revenge Porn, Threats, and Online Abuse | UC Berkeley School of Information
 Read more at the original site: http://www.ischool.berkeley.edu/newsandevents/events/2016-04-27-gender-inclusive-internet
+
+
+Related research: 
+
+-Gender-Based Violence in 140 Characters or Fewer: A #BigData Case Study of Twitter
+Hemant Purohit, Tanvi Banerjee, Andrew Hampton, Valerie L. Shalin, Nayanesh Bhandutia (UNFPA), Amit P. Sheth  http://firstmonday.org/ojs/index.php/fm/article/view/6148/5190#p2
+
+-Misogyny on Twitter
+Jamie Bartlett, Richard Norrie, Sofia Patel, Rebekka Rumpel, Simon Wibberley
+http://apo.org.au/resource/misogyny-twitter
+
+--------
+
+
+WANTED
+
+10,000+ comments/tweets that are 95% hate speeches aimed at female identity groups. Datasets that are keyword occurences will not suffice.
 
 
 --------
