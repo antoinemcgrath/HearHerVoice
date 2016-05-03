@@ -46,7 +46,7 @@ NEW SUGGESTIONS CAN BE MADE HERE[_        _       _]
 
  --A- Prepare rated data and raw data to train machine 
  
- --B- Use h2o; ensemble/subsemble as super learners, or linguistic cluster modeling
+ --B- Use h2o; ensemble/subsemble as super learners, or linguistic cluster modeling -Rumored: visual algorithms are far better at yielding detailed results (over linguistic ones) and can be trained with smaller training data
  
  --C- Test, assess, and adapt
 
@@ -66,9 +66,10 @@ Welcome note: If any of this interests you please comment or join in!
 
 Related events:
 
-USA CA, UC Berkeley iSchool: Gender Inclusive Internet
-Toward a Gender-Inclusive Internet: Strategies to Counter Harassment, Revenge Porn, Threats, and Online Abuse | UC Berkeley School of Information
-Read more at the original site: http://www.ischool.berkeley.edu/newsandevents/events/2016-04-27-gender-inclusive-internet
+(Passed)
+#USA CA, UC Berkeley iSchool: Gender Inclusive Internet
+#Toward a Gender-Inclusive Internet: Strategies to Counter Harassment, Revenge Porn, Threats, and Online Abuse | UC Berkeley School of Information
+#Read more at the original site: http://www.ischool.berkeley.edu/newsandevents/events/2016-04-27-gender-inclusive-internet
 
 
 Related research: 
@@ -85,7 +86,7 @@ http://apo.org.au/resource/misogyny-twitter
 
 WANTED
 
-10,000+ comments/tweets which are 95% hate speech aimed at female identity groups. 
+#(no longer a priority, training may possible with a few hundred) #10,000+ comments/tweets which are 95% hate speech aimed at female identity groups. 
 Datasets that based on keyword occurences will not suffice.
 
 
