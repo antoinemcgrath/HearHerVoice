@@ -67,26 +67,22 @@ Welcome note: If any of this interests you please comment or join in!
 Related events:
 
 (Passed)
-#USA CA, UC Berkeley iSchool: Gender Inclusive Internet
-#Toward a Gender-Inclusive Internet: Strategies to Counter Harassment, Revenge Porn, Threats, and Online Abuse | UC Berkeley School of Information
-#Read more at the original site: http://www.ischool.berkeley.edu/newsandevents/events/2016-04-27-gender-inclusive-internet
+USA CA, UC Berkeley iSchool: Gender Inclusive Internet
+Toward a Gender-Inclusive Internet: Strategies to Counter Harassment, Revenge Porn, Threats, and Online Abuse | UC Berkeley School of Information
+Read more at the original site: http://www.ischool.berkeley.edu/newsandevents/events/2016-04-27-gender-inclusive-internet
 
 
 Related research: 
 
 -Gender-Based Violence in 140 Characters or Fewer: A #BigData Case Study of Twitter
-Hemant Purohit, Tanvi Banerjee, Andrew Hampton, Valerie L. Shalin, Nayanesh Bhandutia (UNFPA), Amit P. Sheth  http://firstmonday.org/ojs/index.php/fm/article/view/6148/5190#p2
+Hemant Purohit, Tanvi Banerjee, Andrew Hampton, Valerie L. Shalin, Nayanesh Bhandutia (UNFPA), Amit P. Sheth http://firstmonday.org/ojs/index.php/fm/article/view/6148/5190#p2
 
 -Misogyny on Twitter
 Jamie Bartlett, Richard Norrie, Sofia Patel, Rebekka Rumpel, Simon Wibberley
 http://apo.org.au/resource/misogyny-twitter
 
---------
-
-
-WANTED
-
-#(no longer a priority, training may possible with a few hundred) #10,000+ comments/tweets which are 95% hate speech aimed at female identity groups. 
+-WANTED
+10,000+ comments/tweets which are 95% (or more) hate speech aimed at female identity groups to be used as a training set.
 Datasets that based on keyword occurences will not suffice.
 
 
